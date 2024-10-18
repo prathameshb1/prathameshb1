@@ -1,17 +1,15 @@
-# Hello, I'm [Your Name]!
+# Hello, I'm [Prathamesh]!
 
-Welcome to my GitHub profile! I'm a [Your Profession/Interest] with a passion for [Your Interests].
+Welcome to my GitHub profile! I'm a [Student] with a passion for [Java].
 
 ## About Me
-- 🔭 I’m currently working on [Project/Tech].
-- 🌱 I’m learning [New Skills or Technologies].
-- 💬 Ask me about [Your Expertise or Interests].
-- 📫 How to reach me: [Your Contact Information].
-- ⚡ Fun fact: [A fun fact about yourself].
+- 🔭 I’m currently working on [Springboot].
+- 🌱 I’m learning [SpringBoot].
+- 📫 How to reach me: [Mail Id - prathameshbanasode1@gmail.com].
 
 ## My Projects
 - [Project 1](link-to-your-project)
 - [Project 2](link-to-your-project)
 
 ## Connect with Me
-- [LinkedIn](your-linkedin)
+- [LinkedIn](https://www.linkedin.com/in/prathamesh-banasode-987426240)
